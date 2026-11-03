@@ -1,0 +1,12 @@
+.env
+*.db
+*.db-shm
+*.db-wal
+*.db*.bak
+.venv/
+__pycache__/
+.pytest_cache/
+bot.stdout.log
+bot.stderr.log
+release.stdout.log
+release.stderr.log
